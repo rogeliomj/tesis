@@ -15,7 +15,7 @@ google-api-python-client==1.7.6
 google-auth==1.6.2
 google-auth-httplib2==0.0.3
 googlemaps==3.0.2
-httplib2==0.12.0
+httplib2==0.18.0
 idna==2.8
 ipykernel==5.1.0
 ipython==7.2.0
