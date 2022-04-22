@@ -39,7 +39,7 @@ pyasn1==0.4.4
 pyasn1-modules==0.2.2
 Pygments==2.3.1
 pyparsing==2.3.0
-PyPDF2==1.26.0
+PyPDF2==1.27.5
 python-dateutil==2.7.5
 python-pptx==0.6.5
 pytz==2018.7
