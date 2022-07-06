@@ -24,7 +24,7 @@ jedi==0.13.2
 jupyter-client==5.2.4
 jupyter-core==4.4.0
 kiwisolver==1.0.1
-lxml==4.2.5
+lxml==4.9.1
 matplotlib==3.0.2
 numpy==1.15.4
 oauth2client==4.1.3
